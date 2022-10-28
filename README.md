@@ -1,6 +1,6 @@
 # HouseAnimation
 
-A simple animation of the house day cycle. The project was made for the purposes of the university task. The project was made using a set of technologies: Java Script and HTML.
+A simple animation of the house day and night cycle. The project was made for the purposes of the university task. The project was made using a set of technologies: Java Script and HTML.
 
 ## Demo
 
