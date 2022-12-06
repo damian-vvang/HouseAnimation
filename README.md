@@ -12,4 +12,4 @@ A simple animation of the house day and night cycle. The project was made for th
 
 ## Installation
 
-Run the "index.html" file.
+Run the "index.html" file (available in the root directory).
